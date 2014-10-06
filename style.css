@@ -14,12 +14,12 @@
   font-family: tahoma,verdana,sans-serif;
 }
 
-.DlHighlight .keyword { color: #B42D2E;}
+.DlHighlight .keyword { color: #F92665;}
 
 .DlHighlight .builtin { color: #E1DA69; }
 
-.DlHighlight .string { color: #E3E644; }
-.DlHighlight .string .before, .DlHighlight .string .after { color: #E3E644; }
+.DlHighlight .string { color: #9AE053; }
+.DlHighlight .string .before, .DlHighlight .string .after { color: #9AE053; }
 
 .DlHighlight .regexp { color: #9AE053; }
 .DlHighlight .regexp .before, .DlHighlight .regexp .after { color: #9AE053;}
@@ -60,11 +60,11 @@
 
 /* CSS */
 
-.DlHighlight .css-class { color: #000; font-style: italic; }
-.DlHighlight .css-pseudo-class { color: #777; }
-.DlHighlight .css-id { font-weight: bold; }
-.DlHighlight .css-color-spec { color: #a51; }
-.DlHighlight .css-length { color: #a19; }
-.DlHighlight .css-length .after { font-weight: bold; }
-.DlHighlight .css-declaration-kw { font-weight: bold; }
-.DlHighlight .css-comma { color: red; }
+.DlHighlight .css-class { color: #D69D85;}
+.DlHighlight .css-pseudo-class { color: #D69D85; }
+.DlHighlight .css-id { color: #D69D85;}
+.DlHighlight .css-color-spec { color: #D1EDF1; }
+.DlHighlight .css-length { color: #D1EDF1; }
+.DlHighlight .css-length .after { color: #E8282C }
+/*.DlHighlight .css-declaration-kw { font-weight: bold; }*/
+/*.DlHighlight .css-comma { color: red; }*/
