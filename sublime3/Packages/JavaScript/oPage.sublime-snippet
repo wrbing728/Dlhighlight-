@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+var ui = {${1:}};
+var oPage = {
+    init: function() {
+        this.view();
+        this.listen();
+    },
+    view: function() {
+    },
+    listen: function() {
+    }
+};
+oPage.init();]]></content>
+  <tabTrigger>oPage</tabTrigger>
+  <scope>source.js</scope>
+  <description>oPage.init(…)</description>
+</snippet>

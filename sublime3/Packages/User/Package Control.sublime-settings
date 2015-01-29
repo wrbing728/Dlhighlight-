@@ -1,0 +1,35 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Autoprefixer",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSS Format",
+		"CSScomb",
+		"CSSTidy",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"LiveStyle",
+		"Package Control",
+		"PackageResourceViewer",
+		"RSync",
+		"Rsync SSH",
+		"SFTP"
+	]
+}

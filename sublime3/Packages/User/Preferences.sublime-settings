@@ -1,0 +1,27 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Default/close_to_the_sea.tmTheme",
+	"draw_minimap_border": true,
+	"filesync_enabled": false,
+	"font_size": 16,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"CSScomb",
+		"ASP",
+		"TCL",
+		"AppleScript",
+		"Vintage",
+		"Batch File",
+		"AngularJS",
+		"SublimeLinter Beta"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"open_files_in_new_window": false,
+	"scroll_past_end": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"update_check": false,
+	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?"
+}
