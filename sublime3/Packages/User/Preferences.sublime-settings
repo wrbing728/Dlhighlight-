@@ -1,20 +1,22 @@
 {
-	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/close_to_the_sea.tmTheme",
+	"auto_complete": true,
+	"auto_match_enabled": true,
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/SublimeLinter/close_to_the_sea (SL).tmTheme",
 	"draw_minimap_border": true,
 	"filesync_enabled": false,
-	"font_size": 16,
+	"font_size": 14,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"CSScomb",
-		"ASP",
-		"TCL",
 		"AppleScript",
+		"SublimeLinter Beta",
+		"Markdown",
+		"TCL",
+		"ASP",
 		"Vintage",
 		"Batch File",
-		"AngularJS",
-		"SublimeLinter Beta"
+		"AngularJS"
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
@@ -22,6 +24,7 @@
 	"scroll_past_end": false,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 	"update_check": false,
 	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?"
 }

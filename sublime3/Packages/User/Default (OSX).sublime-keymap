@@ -1,4 +1,3 @@
 [
-  { "keys": ["ctrl+`"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
-  {"keys": ["super+ctrl+i"], "command": "alignment"}
+    { "keys": ["super+shift+c"], "command": "css_comb" }
 ]

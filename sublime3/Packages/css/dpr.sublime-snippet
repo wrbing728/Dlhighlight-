@@ -1,0 +1,13 @@
+<snippet>
+  <content>
+[data-dpr="2"] ${1:} {
+    ${2:}  
+}
+[data-dpr="3"] ${3:} {
+    ${4:}
+}
+</content>
+  <tabTrigger>dpr</tabTrigger>
+  <scope>source.css</scope>
+  <description>[data-dpr=""]</description>
+</snippet>

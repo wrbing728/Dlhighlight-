@@ -44,7 +44,7 @@
         "space-after-opening-brace": "\n",
 
         // Set space after selector delimiter.
-        "space-after-selector-delimiter": " ",
+        "space-after-selector-delimiter": "\n",
 
         // Set space before `}`.
         "space-before-closing-brace": "\n",

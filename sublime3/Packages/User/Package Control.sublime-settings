@@ -2,34 +2,27 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
-		"Alignment",
-		"Autoprefixer",
+		"AppendSelection",
+		"AutoFileName",
+		"Clickable URLs",
 		"ColorPicker",
-		"ConvertToUTF8",
-		"CSS Format",
+		"CSS3",
 		"CSScomb",
-		"CSSTidy",
 		"DocBlockr",
 		"Emmet",
-		"Emmet Css Snippets",
 		"FileDiffs",
 		"Git",
 		"GitGutter",
-		"Github Tools",
+		"HTML Snippets",
 		"HTML-CSS-JS Prettify",
-		"IMESupport",
-		"LiveStyle",
+		"MarkdownEditing",
 		"Package Control",
 		"PackageResourceViewer",
-		"RSync",
-		"Rsync SSH",
-		"SFTP"
+		"Sass",
+		"SASS Snippets",
+		"SublimeLinter",
+		"SublimeOnSaveBuild"
 	]
 }
